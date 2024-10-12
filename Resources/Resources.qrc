@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ShipDamaged.png</file>
+        <file>Ship.png</file>
+        <file>Miss.png</file>
+        <file>icon.png</file>
+        <file>Empty.png</file>
+    </qresource>
+</RCC>
